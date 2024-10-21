@@ -1,0 +1,7 @@
+{
+  "title": "How to load CSV files into Qdrant",
+  "description": "Learn how to efficiently load CSV data into Qdrant for vector search.",
+  "category": "Data Loading",
+  "filename": "load_csv_to_qdrant.ipynb",
+  "lastUpdated": "2023-05-15"
+}

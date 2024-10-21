@@ -1,0 +1,46 @@
+{
+  "notebooks": [
+    {
+      "title": "How to load CSV files into Qdrant",
+      "description": "Learn how to efficiently load CSV data into Qdrant for vector search.",
+      "tags": ["Data Loading", "CSV", "ETL", "Performance"],
+      "filename": "load_csv_to_qdrant.ipynb",
+      "lastUpdated": "2023-05-15"
+    },
+    {
+      "title": "Image embedding with CLIP",
+      "description": "A guide to creating image embeddings using CLIP and storing them in Qdrant.",
+      "tags": ["Embeddings", "Images", "CLIP", "Performance"],
+      "filename": "image_embedding_clip.ipynb",
+      "lastUpdated": "2023-05-10"
+    },
+    {
+      "title": "Text similarity search",
+      "description": "Implement text similarity search using Qdrant and transformer models.",
+      "tags": ["Search", "Text", "Transformers", "Embeddings"],
+      "filename": "text_similarity_search.ipynb",
+      "lastUpdated": "2023-05-05"
+    },
+    {
+      "title": "Hybrid search with Qdrant",
+      "description": "Combine vector and keyword search for more accurate results.",
+      "tags": ["Advanced", "Hybrid Search", "Optimization", "Search"],
+      "filename": "hybrid_search_qdrant.ipynb",
+      "lastUpdated": "2023-04-30"
+    },
+    {
+      "title": "Incremental updates in Qdrant",
+      "description": "Learn how to efficiently update your vector database incrementally.",
+      "tags": ["Maintenance", "Updates", "Performance", "ETL"],
+      "filename": "incremental_updates_qdrant.ipynb",
+      "lastUpdated": "2023-04-25"
+    },
+    {
+      "title": "Scaling Qdrant for large datasets",
+      "description": "Best practices for scaling Qdrant to handle millions of vectors.",
+      "tags": ["Performance", "Scaling", "Large Datasets", "Optimization"],
+      "filename": "scaling_qdrant_large_datasets.ipynb",
+      "lastUpdated": "2023-04-20"
+    }
+  ]
+}
