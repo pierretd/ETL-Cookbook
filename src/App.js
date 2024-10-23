@@ -15,7 +15,7 @@ function Home() {
           Your one-stop resource for loading any data type into Qdrant.
           Get instant, working code and expert advice on embedding models to kickstart your vector search applications.
         </p>
-        <h1 className="coming-soon">Coming Soon...</h1>
+        <h1 className="coming-soon">Coming Soon!</h1>
       </div>
       <div className="background-container">
         <a href="https://qdrant.tech/" target="_blank" rel="noopener noreferrer" className="background-link">
